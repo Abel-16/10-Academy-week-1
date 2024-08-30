@@ -1,8 +1,4 @@
 {
-"cSpell.words": [
-    "thte"
-],
-"python.analysis.extraPaths": [
-    "./scripts"
-]
+  "cSpell.words": ["statsmodels", "thte"],
+  "python.analysis.extraPaths": ["./scripts"]
 }
